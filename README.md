@@ -21,7 +21,7 @@ allure serve allure-results
 These are the snapshots of the allure reports:
 
 
-![1](https://user-images.githubusercontent.com/71173675/151309260-ed5740aa-614c-4d2c-80ee-b57b65e33aae.png)
+
 
 ![2](https://user-images.githubusercontent.com/71173675/151309271-7e08675a-53a2-4207-9802-f6257fec7ba4.png)
 
